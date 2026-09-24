@@ -1,0 +1,102 @@
+{
+    "score": 5,
+    "total_questions": 12,
+    "answers": [
+        {
+            "question_number": 1,
+            "question": "An email asks you to verify your password via a link. You should:",
+            "your_answer": "A",
+            "correct_answer": "B",
+            "correct": false,
+            "explanation": "Always verify via official channels, never click email links."
+        },
+        {
+            "question_number": 2,
+            "question": "You find a USB drive in the parking lot. You should:",
+            "your_answer": "B",
+            "correct_answer": "B",
+            "correct": true,
+            "explanation": "USB drops are a classic baiting attack vector."
+        },
+        {
+            "question_number": 3,
+            "question": "You receive a connection request from an account using your colleague's name and photo, but the username is slightly different. What should you do?",
+            "your_answer": "B",
+            "correct_answer": "B",
+            "correct": true,
+            "explanation": "Impersonation accounts may copy names and profile photos. Verify suspicious accounts through a trusted channel before interacting with them."
+        },
+        {
+            "question_number": 4,
+            "question": "You visit a website you normally trust, but it suddenly asks you to download an unexpected software update. What should you do?",
+            "your_answer": "B",
+            "correct_answer": "B",
+            "correct": true,
+            "explanation": "Trusted websites can sometimes be compromised in watering-hole attacks. Unexpected downloads should be verified through an official source."
+        },
+        {
+            "question_number": 5,
+            "question": "Someone claiming to be from IT calls and asks for your current password. What should you do?",
+            "your_answer": "A",
+            "correct_answer": "B",
+            "correct": false,
+            "explanation": "Legitimate IT staff should not ask users to reveal their passwords."
+        },
+        {
+            "question_number": 6,
+            "question": "You receive an urgent SMS saying your account will be closed unless you click a link immediately. What is this most likely an example of?",
+            "your_answer": "W",
+            "correct_answer": "A",
+            "correct": false,
+            "explanation": "Smishing is SMS-based phishing and often uses urgency to encourage users to click links."
+        },
+        {
+            "question_number": 7,
+            "question": "Which of the following is a warning sign that a social-media profile may be fake?",
+            "your_answer": "B",
+            "correct_answer": "A",
+            "correct": false,
+            "explanation": "A new account with little activity can be one of several indicators of a fake or bot profile."
+        },
+        {
+            "question_number": 8,
+            "question": "A caller says they are from your bank and asks you to read out a one-time verification code. What should you do?",
+            "your_answer": "B",
+            "correct_answer": "B",
+            "correct": true,
+            "explanation": "Verification codes should not be shared during unexpected calls. The request should be verified independently."
+        },
+        {
+            "question_number": 9,
+            "question": "Which security measure can help reduce repeated automated login attempts?",
+            "your_answer": "A",
+            "correct_answer": "A",
+            "correct": true,
+            "explanation": "Rate limiting restricts repeated login attempts and can help reduce brute-force or dictionary-style attacks."
+        },
+        {
+            "question_number": 10,
+            "question": "Which information should generally be limited when using public developer or social-media profiles?",
+            "your_answer": "U",
+            "correct_answer": "A",
+            "correct": false,
+            "explanation": "Public information can contribute to an OSINT profile, so unnecessary personal or organizational details should be limited."
+        },
+        {
+            "question_number": 11,
+            "question": "Which action can help reduce the risk of watering-hole attacks?",
+            "your_answer": "TT",
+            "correct_answer": "A",
+            "correct": false,
+            "explanation": "The internship guidance lists web filtering, script blocking, and patch management as defenses against watering-hole attacks."
+        },
+        {
+            "question_number": 12,
+            "question": "You receive a personalized email that mentions your company and location and asks you to verify your account urgently. What should you do?",
+            "your_answer": "E",
+            "correct_answer": "B",
+            "correct": false,
+            "explanation": "Spear-phishing messages may use public information to appear convincing, so unexpected requests should be independently verified."
+        }
+    ]
+}
