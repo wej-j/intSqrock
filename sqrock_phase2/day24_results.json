@@ -1,0 +1,20 @@
+[
+    {
+        "ip": "103.45.67.89",
+        "indicator": "malware_c2",
+        "risk_score": 98,
+        "action": "BLOCK"
+    },
+    {
+        "ip": "185.10.11.12",
+        "indicator": "botnet_node",
+        "risk_score": 85,
+        "action": "MONITOR"
+    },
+    {
+        "ip": "198.51.100.33",
+        "indicator": "brute_forcer",
+        "risk_score": 92,
+        "action": "BLOCK"
+    }
+]

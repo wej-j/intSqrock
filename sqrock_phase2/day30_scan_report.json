@@ -1,0 +1,14 @@
+{
+    "target": "http://127.0.0.1:5000",
+    "total_findings": 2,
+    "findings": [
+        {
+            "module": "SQLi Detection",
+            "finding": "Suspicious SQLi pattern from 10.0.4.12"
+        },
+        {
+            "module": "SQLi Detection",
+            "finding": "Suspicious SQLi pattern from 172.16.5.9"
+        }
+    ]
+}
