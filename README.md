@@ -14,7 +14,7 @@ SQROCK_Cybersecurity/
 │
 ├── .gitignore
 └── README.md
-```text
+```
 
 ## Topics Covered
 ### Phase1:
