@@ -71,7 +71,8 @@ The scanner includes:
 - JSON report generation
 The Phase 2 files are located in:
 /sqrock_phase2
-The final Phase 2 technical report is available at:
+
+- The final Phase 2 technical report is available at:
 /sqrock_phase2/Final_report2.pdf
 
 ## Ethical Use
