@@ -69,7 +69,7 @@ The scanner includes:
 - XSS sanitization
 - Findings collection
 - JSON report generation
-The Phase 2 files are located in:
+- The Phase 2 files are located in:
 /sqrock_phase2
 
 - The final Phase 2 technical report is available at:
